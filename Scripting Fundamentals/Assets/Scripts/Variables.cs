@@ -31,7 +31,7 @@ public class Variables : MonoBehaviour
         float horizontalInput = Input.GetAxis("Horizontal"); 
         
     }
-
+ 
     private void UpdateScore(int amount)
     {
         //using local variable to update the total score
